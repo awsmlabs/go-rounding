@@ -1,3 +1,3 @@
-module go.awslmabs.co.uk/rounding
+module go.awsmlabs.co.uk/rounding
 
 go 1.12
