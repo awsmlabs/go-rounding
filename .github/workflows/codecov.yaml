@@ -2,8 +2,8 @@ name: Code Coverage
 on: [push]
 
 jobs:
-  test:
-    name: Test
+  coverage:
+    name: Code Coverage
     runs-on: ubuntu-latest
     steps:
       - name: Set up Go
